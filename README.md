@@ -19,5 +19,5 @@ Please click on Full Documentation to download source code and test data.
 Citation
 -----
 *Citation information will be given after deciding about publication*:
-Hyun Jung Park^, Soyeon Kim, Wei Li Discovering Dysregulated Competing-endogenous Pathways in Cancer 
+Park HJ, Kim S, Li W (2018) Model-based analysis of competing-endogenous pathways (MACPath) in human cancers. PLoS Comput Biol 14(3): e1006074. https://doi.org/10.1371/journal. pcbi.1006074  
 
